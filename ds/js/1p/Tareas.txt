@@ -1,0 +1,3 @@
+
+idear algoritmo para:
+-Decir si hay repetidos en un arreglo
