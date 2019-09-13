@@ -11,6 +11,7 @@ function gcd(a,b){
 }
 
 function lcm(a,b){
-    return (a/(gcd(a,b)*b));
+    
+    return (a / gcd(a, b)) * b;;
 }
 lcm(20,48)
